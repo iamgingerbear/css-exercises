@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+.numOne, .numFive {
+    background-color: red;
+}
+
+#numTwo {
+    font-size: 36px;
+    color: blue;
+
+}
+
+.numThree {
+    background: red
+    ;
+    font-size: 26px;
+}
+#numFour {
+    background-color: green;
+    font-weight: bold;
+    font-size: 20px;
+}
